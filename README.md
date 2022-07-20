@@ -1,6 +1,6 @@
 # Principles I try to follow while designing/building/working on a project
 
-plagiarized from daddy Elon musk. bias towards minimizing time to ship.
+plagiarized from daddy Elon. bias towards minimizing time to ship.
 
 - first principles:  [https://www.youtube.com/watch?v=NV3sBlRgzTI](https://www.youtube.com/watch?v=54OSbbtXrdI)
     - imp to avoid the pitfalls of reasoning by analogy
