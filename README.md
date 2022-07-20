@@ -1,4 +1,4 @@
-# Guidelines I try to follow this designing/building/working on a project
+# Principles I try to follow while designing/building/working on a project
 
 plagiarized from daddy Elon musk. bias towards minimizing time to ship.
 
